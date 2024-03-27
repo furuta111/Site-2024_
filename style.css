@@ -1,10 +1,10 @@
-@chanset "utf-8"
+@chanset "UTF8"
 
 body
 { 
 background-color: color;
 color: White;
-font-size: 12 pts;
+font-size: 12pt;
 pont-family: Arial;
 }
 
